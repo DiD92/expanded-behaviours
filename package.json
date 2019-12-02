@@ -1,0 +1,7 @@
+{
+    "name": "com.unity-expanded.expanded-behaviours",
+    "displayName": "Unity Expanded Behaviours",
+    "version": "0.1.0",
+    "unity": "2018.4",
+    "description": "Collection of utilities to ease Unity development."
+}
